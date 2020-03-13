@@ -1,0 +1,46 @@
+body{
+    background-color: #6DA2E3;
+}
+
+p{
+    color: antiquewhite;
+    font-size: 20px;
+    color: rgba(126, 46, 86);
+}
+
+h1{
+    text-align: center;
+    color: rgba(126, 46, 86);
+}
+
+#score{
+    text-align: center;
+}
+
+.clear{
+    clear: both;
+}
+#size-bloc{
+    margin-left: -50px;
+    padding-left: 50%;
+}
+
+#size-title{
+    float: left;
+    margin-top: 0px;
+}
+
+#size{
+    width: 50px;
+    margin-left: 10px;
+    border-radius: 3px;
+}
+
+#canvas{
+    background-color: #5A2951;
+}
+
+#canvas-block{
+    margin-left: -250px;
+    padding-left: 50%;
+}
